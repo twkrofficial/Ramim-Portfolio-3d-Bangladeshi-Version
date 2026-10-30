@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+dist
+.vercel
+.VSCodeCounter
+.env*
+.autosave
+*.wav
+*.log
+resources/*
+!resources/bd-theme

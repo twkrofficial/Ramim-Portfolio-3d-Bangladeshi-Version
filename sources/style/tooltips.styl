@@ -1,0 +1,37 @@
+.has-tooltip
+    position relative
+
+    &:hover
+        .tooltip
+            display block
+
+.tooltip
+    --width 200px
+    
+    display none
+    position absolute
+    bottom calc(100% + 6px)
+    left calc(50% - var(--width) / 2)
+    width var(--width)
+    padding 12px 15px
+    background rgba(32, 22, 15, 0.9)
+    border-radius 6px
+    border 1px solid #f5a800
+    font-size 16px
+    color #f6ead2
+    white-space break-spaces
+    line-height 20px
+    z-index 1
+    pointer-events none
+
+    &:after
+        content ''
+        position absolute
+        top calc(100% - 8px)
+        left calc(50% - 8px)
+        width 16px
+        height 16px
+        background rgba(32, 22, 15, 0.9)
+        border-right 1px solid #f5a800
+        border-bottom 1px solid #f5a800
+        transform rotate(45deg)

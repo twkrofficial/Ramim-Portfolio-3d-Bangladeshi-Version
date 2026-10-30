@@ -3,5 +3,5 @@ export default [
     { name: 'Instagram', url: 'https://instagram.com/twkrofficial', align: 'right' },
     { name: 'Facebook', url: 'https://facebook.com/twkrofficial', align: 'right' },
     { name: 'Threads', url: 'https://www.threads.net/@twkrofficial', align: 'left' },
-    { name: 'Mail', url: 'mailto:Rramimahmedhome@gmail.com', align: 'left' },
+    { name: 'Mail', url: 'mailto:Ramimahmeedhome@gmail.com', align: 'left' },
 ]

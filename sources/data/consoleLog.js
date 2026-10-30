@@ -22,7 +22,7 @@ const text = `
 ╚════════════════════════╝
 
 ╔═ Contact ══════════════╗
-║ Mail      ⇒ Rramimahmedhome@gmail.com
+║ Mail      ⇒ Ramimahmeedhome@gmail.com
 ║ GitHub    ⇒ https://github.com/ramimfaaz
 ║ Instagram ⇒ https://instagram.com/twkrofficial
 ║ Facebook  ⇒ https://facebook.com/twkrofficial
